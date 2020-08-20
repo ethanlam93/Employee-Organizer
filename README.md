@@ -36,7 +36,7 @@ The generated README includes the following sections:
 node index.js
 
 ## Screenshot and Video Demo
-
+<img width="697" alt="Screen Shot 2020-08-20 at 4 51 51 PM" src="https://user-images.githubusercontent.com/64672854/90824854-07e55380-e306-11ea-86a4-5ccac6e330ca.png">
 https://www.youtube.com/watch?v=Q2oQV2dAqww&feature=youtu.be
 
 
